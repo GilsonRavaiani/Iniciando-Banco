@@ -25,9 +25,9 @@ namespace Banco
 
             Console.WriteLine("Valor depositado: ");
 
-            string valor = Console.ReadLine();
+            string valor = Console.ReadLine();//Vou modificar incrementando opções de digitar
 
-            conta.Depositar(12);            
+            conta.Depositar(12); //Colocar um teclado com opções de transações 02/05/2022           
 
             Console.WriteLine($"Saldo após depósito: { conta.VerSaldo()}");
 
