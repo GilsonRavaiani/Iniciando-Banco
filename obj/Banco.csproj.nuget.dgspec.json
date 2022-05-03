@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\banco\\Banco.csproj": {}
+    "C:\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\banco\\Banco.csproj": {
+    "C:\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\banco\\Banco.csproj",
+        "projectPath": "C:\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\gar\\.nuget\\packages\\",
-        "outputPath": "C:\\banco\\obj\\",
+        "outputPath": "C:\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gar\\AppData\\Roaming\\NuGet\\NuGet.Config"
